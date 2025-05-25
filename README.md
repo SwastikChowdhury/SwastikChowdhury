@@ -1,4 +1,4 @@
-##🚀 About Me
+## 🚀 About Me
 👋 Hi, I’m Swastik Chowdhury — a Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives!
 🎓 Graduate Student @ Carnegie Mellon University
 🤖 Specializing in Machine Learning, Deep Learning, Generative AI, and Advanced Analytics
@@ -6,14 +6,14 @@
 ⚡ Fun fact: Used to be a semi-pro CSGO player!
 🌍 Let’s build the future of data and AI together!
 
-##📫 Let’s Connect
+## 📫 Let’s Connect
 Location: Pittsburgh, PA, USA
 Current: Grad Student @ Carnegie Mellon University (CMU)
 Open to: Data Engineering, Machine Learning Engineering, Software Engineering roles
 Blog: https://medium.com/@swastiksc1996
 LinkedIn: linkedin.com/in/swastik-chowdhury
 
-##🛠️ Technical Skills
+## 🛠️ Technical Skills
 Languages: Python, Scala, Java, SQL
 Databases: Oracle SQL, MongoDB, Cassandra, Redis, Neo4j
 Big Data: Spark, PySpark, Kafka, Hadoop
@@ -23,14 +23,14 @@ DevOps/MLOps: Docker, Airflow, dbt, RabbitMQ, Jenkins, Ansible, ArgoCD, Kubernet
 Cloud: AWS, GCP
 BI/Visualization: Tableau, QuickSight
 
-##🏆 Key Achievements
+## 🏆 Key Achievements
 Cost Optimization: Led migration from Amazon Redshift to EMR using Apache Spark, saving $1M+ annually
 Real-Time Data Ingestion: Designed CDC pipelines with Debezium, Kafka, and Iceberg for scalable, real-time analytics
 Spark Optimization: Reduced Spark job costs by 15%+ through advanced resource allocation and workload analysis
 AI Product Development: Built a production-ready tool for document indexing using LlamaIndex and LLMs, streamlining support and knowledge sharing
 Teaching: Graduate Teaching Assistant for Machine Learning in Production/AI Engineering at CMU, mentoring teams on deploying ML systems in productio
 
-##📂 Featured Projects
+## 📂 Featured Projects
 
 1. 🎬🤖 Machine Learning in Production for RecSys
 Sep 2023–Dec 2024
