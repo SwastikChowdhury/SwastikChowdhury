@@ -1,7 +1,7 @@
 ## 🚀 About Me
 👋 Hi, I’m **Swastik Chowdhury** — a Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives! <br>
 🎓 Graduate Student @ Carnegie Mellon University<br>
-🚀 Actively seeking full-time roles starting August 2025<<br>
+🚀 Actively seeking full-time roles starting August 2025 <br>
 📍 **Location:** Pittsburgh, PA, USA <br>
 💼 **Open to:** Data Engineering, Machine Learning Engineering, Software Engineering roles<br>
 📝 **Blog:** [https://medium.com/@swastiksc1996](https://medium.com/@swastiksc1996)<br>
@@ -17,6 +17,18 @@
 - 🏎️ **Spark Optimization:** Reduced Spark job costs by **15%+** through advanced resource allocation and workload analysis
 - 🤖 **AI Product Development:** Built a production-ready tool for document indexing using LlamaIndex and LLMs, streamlining support and knowledge sharing
 - 🎓 **Teaching:** Graduate Teaching Assistant for Machine Learning in Production/AI Engineering at CMU, mentoring teams on deploying ML systems in production
+
+---
+
+## 🚀 GitHub Stats
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwastikChowdhury&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwastikChowdhury&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SwastikChowdhury&theme=dark)](https://git.io/streak-stats)
 
 ---
 
