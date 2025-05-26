@@ -1,32 +1,4 @@
-## 🚀 About Me
-👋 Hi, I’m **Swastik Chowdhury** — a Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives! <br>
-🎓 Graduate Student @ Carnegie Mellon University<br>
-🚀 Actively seeking full-time roles starting August 2025 <br>
-📍 **Location:** Pittsburgh, PA, USA <br>
-💼 **Open to:** Data Engineering, Machine Learning Engineering, Software Engineering roles<br>
-📝 **Blog:** [https://medium.com/@swastiksc1996](https://medium.com/@swastiksc1996)<br>
-🔗 **LinkedIn:** [linkedin.com/in/swastik-chowdhury](https://linkedin.com/in/swastik-chowdhury)<br>
-🌐 **Website:** [https://swastikchowdhury.github.io](https://swastikchowdhury.github.io) <br>
-
-
-<table>
-  <tr>
-    <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHZxenZrczk1dzhzM3p0cHVtc2w2ZXZ1eXR0NG9iNTA1bzN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy.gif" width="130"/>
-    </td>
-    <td>
-      <h2>About Me</h2>
-      <p>👋 Hi, I'm <b>Swastik Chowdhury</b> — a Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives!</p>
-      <ul>
-        <li>🎓 Graduate Student @ Carnegie Mellon University</li>
-        <li>🚀 Actively seeking full-time roles starting August 2025</li>
-        <li>📍 Location: Pittsburgh, PA, USA</li>
-        <li>💼 Open to: Data Engineering, Machine Learning Engineering, Software Engineering roles</li>
-        <li>📝 <a href="https://medium.com/@swastiksc1996">Blog</a> | <a href="https://linkedin.com/in/swastik-chowdhury">LinkedIn</a> | <a href="https://swastikchowdhury.github.io">Website</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<table> <tr> <td> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHZxenZrczk1dzhzM3p0cHVtc2w2ZXZ1eXR0NG9iNTA1bzN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy.gif" width="130" alt="Animated developer GIF"/> </td> <td> <b>👋 Hi, I’m Swastik Chowdhury</b> — Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives.<br> <ul> <li>🎓 Graduate Student @ Carnegie Mellon University</li> <li>🚀 Actively seeking full-time roles starting <b>August 2025</b></li> <li>📍 Pittsburgh, PA, USA</li> <li>💼 Open to: Data Engineering, Machine Learning Engineering, Software Engineering roles</li> <li>📝 <a href="https://medium.com/@swastiksc1996">Blog</a> | <a href="https://linkedin.com/in/swastik-chowdhury">LinkedIn</a> | <a href="https://swastikchowdhury.github.io">Website</a></li> </ul> </td> </tr> </table>
 
 
 ---
