@@ -8,6 +8,27 @@
 🔗 **LinkedIn:** [linkedin.com/in/swastik-chowdhury](https://linkedin.com/in/swastik-chowdhury)<br>
 🌐 **Website:** [https://swastikchowdhury.github.io](https://swastikchowdhury.github.io) <br>
 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHZxenZrczk1dzhzM3p0cHVtc2w2ZXZ1eXR0NG9iNTA1bzN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy.gif" width="130"/>
+    </td>
+    <td>
+      <h2>About Me</h2>
+      <p>👋 Hi, I'm <b>Swastik Chowdhury</b> — a Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives!</p>
+      <ul>
+        <li>🎓 Graduate Student @ Carnegie Mellon University</li>
+        <li>🚀 Actively seeking full-time roles starting August 2025</li>
+        <li>📍 Location: Pittsburgh, PA, USA</li>
+        <li>💼 Open to: Data Engineering, Machine Learning Engineering, Software Engineering roles</li>
+        <li>📝 <a href="https://medium.com/@swastiksc1996">Blog</a> | <a href="https://linkedin.com/in/swastik-chowdhury">LinkedIn</a> | <a href="https://swastikchowdhury.github.io">Website</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 🏆 **Key Achievements**
@@ -17,18 +38,6 @@
 - 🏎️ **Spark Optimization:** Reduced Spark job costs by **15%+** through advanced resource allocation and workload analysis
 - 🤖 **AI Product Development:** Built a production-ready tool for document indexing using LlamaIndex and LLMs, streamlining support and knowledge sharing
 - 🎓 **Teaching:** Graduate Teaching Assistant for Machine Learning in Production/AI Engineering at CMU, mentoring teams on deploying ML systems in production
-
----
-
-## 🚀 GitHub Stats
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
-</div>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwastikChowdhury&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwastikChowdhury&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SwastikChowdhury&theme=dark)](https://git.io/streak-stats)
 
 ---
 
