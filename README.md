@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Technical Skills
-💻 **Languages:** Python, Scala, Java, SQL<br>
+
 🗄️ **Databases:** Oracle SQL, MongoDB, Cassandra, Redis, Neo4j<br>
 🛢️ **Big Data:** Spark, PySpark, Kafka, Hadoop<br>
 📊 **Analytics:** Hypothesis Testing, A/B Testing, Survival Analysis, ML, DL, GenAI, NLP<br>
@@ -20,17 +20,28 @@
 ☁️ **Cloud:** AWS, GCP<br>
 📈 **BI/Visualization:** Tableau, QuickSight<br>
 
-Your issue is caused by malformed Markdown syntax and broken badge URLs. Each badge should be a **separate image** with a **valid Shields.io URL**. Do not nest badge URLs or combine them in a single line. Here’s a clean, correct way to format your technical skills section with badges, preserving your original grouping.
 
 ---
 
 ### 🛠️ Technical Skills
-💻 **Languages:**
-<br>
+#### 💻 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
+
+#### 🗄️ **Databases:**
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+
+
+
+
+
 
 ---
 
