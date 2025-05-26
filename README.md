@@ -1,15 +1,22 @@
-<table> <tr> <td> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHZxenZrczk1dzhzM3p0cHVtc2w2ZXZ1eXR0NG9iNTA1bzN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy.gif" width="130" alt="Animated developer GIF"/> </td> <td> <b>👋 Hi, I’m Swastik Chowdhury</b> — Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives.<br> <ul> <li>🎓 Graduate Student @ Carnegie Mellon University</li> <li>🚀 Actively seeking full-time roles starting <b>August 2025</b></li> <li>📍 Pittsburgh, PA, USA</li> <li>💼 Open to: Data Engineering, Machine Learning Engineering, Software Engineering roles</li> <li>📝 <a href="https://medium.com/@swastiksc1996">Blog</a> | <a href="https://linkedin.com/in/swastik-chowdhury">LinkedIn</a> | <a href="https://swastikchowdhury.github.io">Website</a></li> </ul> </td> </tr> </table>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHZxenZrczk1dzhzM3p0cHVtc2w2ZXZ1eXR0NG9iNTA1bzN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy.gif" width="200" alt="Waving animated GIF"/>
+</p>
+
+
+## 🚀 About Me
+
+<img src="assets/hello.gif" width="130" align="right" alt="Animated waving hand GIF"/>
 
 
 ---
 
 🏆 **Key Achievements**
 
-- 💸 **Cost Optimization:** Led migration from Amazon Redshift to EMR using Apache Spark, saving **$1M+ annually**
-- ⚡ **Real-Time Data Ingestion:** Designed CDC pipelines with Debezium, Kafka, and Iceberg for scalable, real-time analytics
-- 🏎️ **Spark Optimization:** Reduced Spark job costs by **15%+** through advanced resource allocation and workload analysis
-- 🤖 **AI Product Development:** Built a production-ready tool for document indexing using LlamaIndex and LLMs, streamlining support and knowledge sharing
-- 🎓 **Teaching:** Graduate Teaching Assistant for Machine Learning in Production/AI Engineering at CMU, mentoring teams on deploying ML systems in production
+💸 **Cost Optimization:** Led migration from Amazon Redshift to EMR using Apache Spark, saving **$1M+ annually**
+⚡ **Real-Time Data Ingestion:** Designed CDC pipelines with Debezium, Kafka, and Iceberg for scalable, real-time analytics
+🏎️ **Spark Optimization:** Reduced Spark job costs by **15%+** through advanced resource allocation and workload analysis
+ 🤖 **AI Product Development:** Built a production-ready tool for document indexing using LlamaIndex and LLMs, streamlining support and knowledge sharing
+ 🎓 **Teaching:** Graduate Teaching Assistant for Machine Learning in Production/AI Engineering at CMU, mentoring teams on deploying ML systems in production
 
 ---
 
