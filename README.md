@@ -1,7 +1,7 @@
 ## 🚀 About Me
 👋 Hi, I’m **Swastik Chowdhury** — a Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives! <br>
 🎓 Graduate Student @ Carnegie Mellon University<br>
-🚀 Actively seeking full-time roles starting August 2025<br<br>
+🚀 Actively seeking full-time roles starting August 2025<<br>
 📍 **Location:** Pittsburgh, PA, USA <br>
 💼 **Open to:** Data Engineering, Machine Learning Engineering, Software Engineering roles<br>
 📝 **Blog:** [https://medium.com/@swastiksc1996](https://medium.com/@swastiksc1996)<br>
