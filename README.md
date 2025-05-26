@@ -10,6 +10,16 @@
 
 ---
 
+🏆 **Key Achievements**
+
+- 💸 **Cost Optimization:** Led migration from Amazon Redshift to EMR using Apache Spark, saving **$1M+ annually**
+- ⚡ **Real-Time Data Ingestion:** Designed CDC pipelines with Debezium, Kafka, and Iceberg for scalable, real-time analytics
+- 🏎️ **Spark Optimization:** Reduced Spark job costs by **15%+** through advanced resource allocation and workload analysis
+- 🤖 **AI Product Development:** Built a production-ready tool for document indexing using LlamaIndex and LLMs, streamlining support and knowledge sharing
+- 🎓 **Teaching:** Graduate Teaching Assistant for Machine Learning in Production/AI Engineering at CMU, mentoring teams on deploying ML systems in production
+
+---
+
 ### 🛠️ Technical Skills
 #### 💻 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -68,19 +78,9 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-
 #### 📈 **BI/Visualization:**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![QuickSight](https://img.shields.io/badge/QuickSight-FFB300?style=for-the-badge&logo=amazonquicksight&logoColor=white)
 
-
----
-
-## 🏆 Key Achievements
-**Cost Optimization:** Led migration from Amazon Redshift to EMR using Apache Spark, saving $1M+ annually<br>
-**Real-Time Data Ingestion:** Designed CDC pipelines with Debezium, Kafka, and Iceberg for scalable, real-time analytics<br>
-**Spark Optimization:** Reduced Spark job costs by 15%+ through advanced resource allocation and workload analysis<br>
-**AI Product Development:** Built a production-ready tool for document indexing using LlamaIndex and LLMs, streamlining support and knowledge sharing<br>
-**Teaching:** Graduate Teaching Assistant for Machine Learning in Production/AI Engineering at CMU, mentoring teams on deploying ML systems in production<br>
 
 ---
