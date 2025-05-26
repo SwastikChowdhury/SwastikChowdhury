@@ -17,11 +17,11 @@
 
 🏆 **Key Achievements**
 
-💸 **Cost Optimization:** Led migration from Amazon Redshift to EMR using Apache Spark, saving **$1M+ annually**
-⚡ **Real-Time Data Ingestion:** Designed CDC pipelines with Debezium, Kafka, and Iceberg for scalable, real-time analytics <br>
-🏎️ **Spark Optimization:** Reduced Spark job costs by **15%+** through advanced resource allocation and workload analysis <br>
- 🤖 **AI Product Development:** Built a production-ready tool for document indexing using LlamaIndex and LLMs, streamlining support and knowledge sharing <br>
- 🎓 **Teaching:** Graduate Teaching Assistant for Machine Learning in Production/AI Engineering at CMU, mentoring teams on deploying ML systems in production <br>
+- 💸 **Cost Optimization:** Led migration from Amazon Redshift to EMR using Apache Spark, saving **$1M+ annually**
+- ⚡ **Real-Time Data Ingestion:** Designed CDC pipelines with Debezium, Kafka, and Iceberg for scalable, real-time analytics <br>
+- 🏎️ **Spark Optimization:** Reduced Spark job costs by **15%+** through advanced resource allocation and workload analysis <br>
+- 🤖 **AI Product Development:** Built a production-ready tool for document indexing using LlamaIndex and LLMs, streamlining support and knowledge sharing <br>
+- 🎓 **Teaching:** Graduate Teaching Assistant for Machine Learning in Production/AI Engineering at CMU, mentoring teams on deploying ML systems in production <br>
 ---
 
 ### 🛠️ Technical Skills
