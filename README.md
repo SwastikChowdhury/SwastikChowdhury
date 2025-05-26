@@ -2,7 +2,7 @@
 ## 🚀 About Me
 
 <img src="assets/hello.gif" width="130" align="right" alt="Animated waving hand GIF"/>
-👋 Hi, I’m **Swastik Chowdhury** — Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives.
+👋 Hi, I’m Swastik Chowdhury — Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives.
 
 - 🎓 Graduate Student @ Carnegie Mellon University
 - 🚀 Actively seeking full-time roles starting **August 2025**
