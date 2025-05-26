@@ -1,12 +1,16 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHZxenZrczk1dzhzM3p0cHVtc2w2ZXZ1eXR0NG9iNTA1bzN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy.gif" width="200" alt="Waving animated GIF"/>
-</p>
-
 
 ## 🚀 About Me
 
 <img src="assets/hello.gif" width="130" align="right" alt="Animated waving hand GIF"/>
+👋 Hi, I’m **Swastik Chowdhury** — Data Engineer & Machine Learning Engineer with 5+ years of experience leading large-scale data and AI initiatives.
 
+- 🎓 Graduate Student @ Carnegie Mellon University
+- 🚀 Actively seeking full-time roles starting **August 2025**
+- 📍 **Location:** Pittsburgh, PA, USA
+- 💼 **Open to:** Data Engineering, Machine Learning Engineering, Software Engineering roles
+- 📝 **[Blog](https://medium.com/@swastiksc1996)**
+- 🔗 **[LinkedIn](https://linkedin.com/in/swastik-chowdhury)**
+- 🌐 **[Website](https://swastikchowdhury.github.io)**
 
 ---
 
