@@ -6,6 +6,7 @@
 💼 **Open to:** Data Engineering, Machine Learning Engineering, Software Engineering roles<br>
 📝 **Blog:** [https://medium.com/@swastiksc1996](https://medium.com/@swastiksc1996)<br>
 🔗 **LinkedIn:** [linkedin.com/in/swastik-chowdhury](https://linkedin.com/in/swastik-chowdhury)<br>
+🌐 **Website:** [https://swastikchowdhury.github.io](https://swastikchowdhury.github.io) <br>
 
 ---
 
