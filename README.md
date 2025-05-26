@@ -1,4 +1,4 @@
-![Description](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6dHZxenZrczk1dzhzM3p0cHVtc2w2ZXZ1eXR0NG9iNTA1bzN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy.gif)
+![Description](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpiNXdnYmZ4bGw5N3d6OGx5amo1bzU1czdhbWd6Y3Fobmt4eDdmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1N4w8i2YOJIposEnye/giphy.gif)
 
 ## 🚀 About Me
 
