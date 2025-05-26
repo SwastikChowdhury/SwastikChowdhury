@@ -69,7 +69,7 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
-📈 **BI/Visualization:**
+#### 📈 **BI/Visualization:**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![QuickSight](https://img.shields.io/badge/QuickSight-FFB300?style=for-the-badge&logo=amazonquicksight&logoColor=white)
 
