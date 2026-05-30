@@ -8,7 +8,7 @@
 - 🎓 Graduate Student @ Carnegie Mellon University
 - 🚀 Actively seeking full-time roles starting **August 2025**
 - 📍 **Location:** Pittsburgh, PA, USA
-- 💼 **Open to:** Data Engineering, Machine Learning Engineering, Software Engineering roles
+- 💼 **Open to:** Software Engineering roles
 - 📝 **[Blog](https://medium.com/@swastiksc1996)**
 - 🔗 **[LinkedIn](https://linkedin.com/in/swastik-chowdhury)**
 - 🌐 **[Website](https://swastikchowdhury.github.io)**
