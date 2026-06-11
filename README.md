@@ -5,7 +5,7 @@
 <img src="assets/hello.gif" width="130" align="right" alt="Animated waving hand GIF"/>
 👋 Hi, I’m Swastik Chowdhury — Engineer with 5+ years of experience leading large-scale data, backend and AI initiatives.
 
-- 🎓 Graduate Student @ Carnegie Mellon University
+- 🎓 Alumni @ Carnegie Mellon University
 - 💼 **Open to:** Software Engineering roles
 - 📝 **[Blog](https://medium.com/@swastiksc1996)**
 - 🔗 **[LinkedIn](https://linkedin.com/in/swastik-chowdhury)**
